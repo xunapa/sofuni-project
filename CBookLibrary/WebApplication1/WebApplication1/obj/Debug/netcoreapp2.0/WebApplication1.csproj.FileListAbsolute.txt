@@ -1,0 +1,12 @@
+D:\SoftUniProjects\CBookLibrary\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.0\WebApplication1.deps.json
+D:\SoftUniProjects\CBookLibrary\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.0\WebApplication1.runtimeconfig.json
+D:\SoftUniProjects\CBookLibrary\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.0\WebApplication1.runtimeconfig.dev.json
+D:\SoftUniProjects\CBookLibrary\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.0\WebApplication1.dll
+D:\SoftUniProjects\CBookLibrary\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.csprojAssemblyReference.cache
+D:\SoftUniProjects\CBookLibrary\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.csproj.CoreCompileInputs.cache
+D:\SoftUniProjects\CBookLibrary\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.AssemblyInfoInputs.cache
+D:\SoftUniProjects\CBookLibrary\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.AssemblyInfo.cs
+D:\SoftUniProjects\CBookLibrary\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.0\WebApplication1.pdb
+D:\SoftUniProjects\CBookLibrary\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+D:\SoftUniProjects\CBookLibrary\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.dll
+D:\SoftUniProjects\CBookLibrary\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.pdb
